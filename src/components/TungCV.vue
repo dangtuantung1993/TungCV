@@ -54,7 +54,7 @@
       <div class="module module--progress">
         <h3 class="module__title">
           <i class="fa fa-graduation-cap circle circle--medium"></i>
-          <span>My Skills</span>
+          <span>Kỹ Năng</span>
         </h3>
         <div class="module__content">
           <ul>
