@@ -20,7 +20,7 @@
             <ul>
               <li class="flex">
                 <i class="far fa-school circle circle--small circle--white"></i>
-                <div>Đại Học Mỏ - Địa Chất (2011-2016)</div><br><br>
+                <div>Đại Học Mỏ - Địa Chất (2011-2016)</div><br>
               </li>
               <li class="flex">
                 <i class="fas fa-graduation-cap circle circle--small circle--white"></i>
@@ -39,7 +39,7 @@
             <ul>
               <li class="flex">
                 <i class="fa fa-map-marker circle circle--small circle--white"></i>
-                <span>Số 22, Đào Duy Từ, Tổ 19, P.Bắc Sơn, Thành Phố Tam Điệp, Ninh Bình</span>
+                <span>Số 22, Đào Duy Từ, P.Bắc Sơn, Tam Điệp, Ninh Bình</span>
               </li>
               <li class="flex">
                 <i class="fab fa-linkedin circle circle--small circle--white"></i>
@@ -91,8 +91,8 @@
                 <div class="flex--1">
                   <span>Database</span>
                   <span class="progress-bar"><span style="width:50%"></span></span>
-                  <span>MongoDB</span><br>
-                  <span>PostgreSQL</span><br>
+                  <span>MongoDB</span>
+                  <span>PostgreSQL</span>
                   <span>MySQL</span>
                 </div>
               </li>
@@ -108,15 +108,15 @@
             <ul>
               <li class="flex">
                 <i class="fab fa-bitcoin circle circle--small circle--white"></i>
-                <div>Trade Coin</div><br><br>
+                <div>Trade Coin</div>
               </li>
               <li class="flex">
                 <i class="fab fa-foursquare circle circle--small circle--white"></i>
-                <div>Forex.</div><br><br>
+                <div>Forex.</div>
               </li>
               <li class="flex">
                 <i class="fas fa-futbol circle circle--small circle--white"></i>
-                <div>Bóng đá.</div><br><br>
+                <div>Bóng đá.</div>
               </li>
               <li class="flex">
                 <i class="fab fa-bitcoin circle circle--small circle--white"></i>
@@ -127,6 +127,7 @@
         </div>
       </div>
       <div class="col-md-8 content">
+        <div class="col-md-12 ">
         <div class="section">
           <h2 class="section__title">
             <i class="fas fa-business-time circle circle--large"></i>
@@ -142,8 +143,12 @@
                   <span><i class="fa fa-calendar"></i>20 NOV 2017-Current</span>
               </div>
               <div class="module__content">
-                <span>Quản lý, đăng bài viết, chỉnh sửa thay đổi nội dung trang web.</span><br>
-                <a href="http://bactrungbomicco.com.vn">Công ty công nghiệp Hóa chất Mỏ - Bắc Trung Bộ </a>
+                <ul class="title title-margin">
+
+                <li>- Quản lý, đăng bài viết, chỉnh sửa thay đổi nội dung trang web.</li>
+                <li>- Website : <a href="http://bactrungbomicco.com.vn">Công ty công nghiệp Hóa chất Mỏ - Bắc Trung Bộ </a>
+                </li>
+                </ul>
               </div>
             </div><!-- End .module #4 -->
           </div><!-- End .section__content -->
@@ -165,10 +170,11 @@
                     <div><a href="https://github.com/dangtuantung1993/checkwallet">Website cho Check Wallet (Incomplete)</a></div>
 
                   </li>
+                  <li class="flex">- https://github.com/dangtuantung1993/checkwallet</li>
+                  <li class="flex">- Frontend: VueJs</li>
+                  <li class="flex">- Backend: NodeJs</li>
                 </ul>
-                <div>https://github.com/dangtuantung1993/checkwallet</div>
-                <div>Frontend: VueJs</div>
-                <div>Backend: NodeJs</div><br><br>
+
               </div>
             </div><!-- End .module #4 -->
           </div><!-- End .section__content -->
@@ -184,9 +190,10 @@
                     <a href="https://github.com/dangtuantung1993/tooljava">Tool Auto </a>
 
                   </li>
+                  <li class="flex">- https://github.com/dangtuantung1993/tooljava</li>
+                  <li class="flex">- Java</li>
                 </ul>
-                <div>https://github.com/dangtuantung1993/tooljava</div>
-                <div>Java</div>
+
               </div>
             </div><!-- End .module #4 -->
           </div><!-- End .section__content -->
@@ -199,20 +206,22 @@
           <div class="section__content">
             <div class="module">
               <div class="module__content">
-                <p>- Khả năng làm việc theo nhóm và độc lập.</p>
-                <p>- Đọc hiểu tài liệu và thực hiện theo yêu cầu.­</p>
-                <p>- Tinh thần trách nhiệm cao trong công việc.</p>
-                <p>- Khả năng chịu được áp lực công việc</p>
-                <p>- Tinh thần đoàn kết, thật thà, trung thực.</p>
-                <p>- Có khả năng quản lý công việc hiệu quả, khoa học và rõ ràng.</p>
+                <ul class="title">
 
+                <li>- Khả năng làm việc theo nhóm và độc lập.</li>
+                <li>- Đọc hiểu tài liệu và thực hiện theo yêu cầu.­</li>
+                <li>- Tinh thần trách nhiệm cao trong công việc.</li>
+                <li>- Khả năng chịu được áp lực công việc</li>
+                <li>- Tinh thần đoàn kết, thật thà, trung thực.</li>
+                <li>- Có khả năng quản lý công việc hiệu quả, khoa học và rõ ràng.</li>
+                </ul>
               </div>
             </div><!-- End .module #4 -->
           </div><!-- End .section__content -->
         </div><!-- End .section #1 -->
         <div class="section">
           </div><!-- End .section #2 -->
-          <div class="section">
+        <div class="section">
             <h2 class="section__title">
               <i class="fa fa-briefcase circle circle--large"></i>
               <span>Mong Muốn</span>
@@ -220,10 +229,10 @@
             <div class="section__content">
               <div class="module">
                 <div class="module__content">
-                  <ul>
-                    <li>Kỹ năng kỹ thuật: Công nghệ chuỗi khối</li>
-                    <li>Kỹ năng mềm: ngoại ngữ, kỹ năng thuyết trình, kỹ năng làm việc nhóm</li>
-                    <li>Trở thành Trưởng nhóm Kỹ thuật hoặc Quản lý Dự án với hiệu suất cao và phong cách chuyên nghiệp</li>
+                  <ul  class="title">
+                    <li>- Kỹ năng kỹ thuật: Công nghệ chuỗi khối</li>
+                    <li>- Kỹ năng mềm: ngoại ngữ, kỹ năng thuyết trình, kỹ năng làm việc nhóm</li>
+                    <li>- Trở thành Trưởng nhóm Kỹ thuật hoặc Quản lý Dự án với hiệu suất cao và phong cách chuyên nghiệp</li>
                   </ul>
                 </div>
               </div><!-- End .module #7 -->
@@ -231,6 +240,7 @@
             </div><!-- End .section #2 -->
           </div><!-- End .content -->
         </div>
+      </div>
       </div>
     </div>
 </template>
@@ -271,6 +281,9 @@ export default {
   footer, header, hgroup, menu, nav, section {
     display: block;
   }
+  .row{
+    margin-right: 0px!important;
+  }
   body {
     line-height: 1.625;
     font-size: 16px;
@@ -300,6 +313,25 @@ export default {
     vertical-align: middle;
     max-width: 100%;
   }
+  .module__content ul{
+    margin-top: 15px;
+    padding-left: 1px;
+  }
+  .module__content p{
+    padding-left: 50px;
+  }
+  .module__content .title li{
+    margin-bottom: 10px;
+  }
+  .title-margin li{
+    padding-left: 45px;
+  }
+  .content .module__content .flex{
+    padding-left: 50px;
+  }
+  .content .module__content .flex:first-child{
+    padding-left: 0px;
+  }
   p {
     margin: 0 0 10px;
   }
@@ -307,7 +339,14 @@ export default {
   /* Helper Class */
   .flex {
     display: flex;
+    margin-bottom: 10px;
   }
+  .flex  i{
+    width:30px!important;
+  }
+.fa-map-marker,.fa-linkedin{
+  padding:0px 10px!important;
+}
   .flex .flex--1 {
     flex: 1;
   }
@@ -317,11 +356,12 @@ export default {
   .sidebar {
     background: #37474f;
     color: #fff;
+    padding-right: 0px!important;
   }
 
   /* Avatar */
   .avatar {
-    width:103%;
+    width:100%;
     text-align: center;
     padding: 60px 0;
     background: #263238;
@@ -338,6 +378,7 @@ export default {
   }
   .avatar h4 {
     font-size: 22px;
+    margin-top: 10px;
   }
 
   /* Module */
@@ -348,7 +389,9 @@ export default {
   .sidebar .module:last-child {
     margin-bottom: 50px;
   }
-
+  .module__content{
+    margin-left: 5px;
+  }
   .module__title {
     font-size: 22px;
     text-transform: uppercase;
@@ -359,7 +402,9 @@ export default {
   .module__meta {
     font-size: 14px;
     color: #90a4ae;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding-left: 45px;
   }
   .module__meta i {
     margin-right: 10px;
@@ -415,7 +460,7 @@ export default {
 
   /* Section */
   .section:not(.last-child) {
-    margin-bottom: 40px;
+    margin-bottom: 25px;
     margin-left: 40px;
   }
   .section__title {
@@ -424,7 +469,7 @@ export default {
     margin: 0 0 10px;
   }
   .section__content {
-    padding-left: 90px;
+    padding-left: 74px;
   }
   .content{
     padding-top: 70px;
@@ -441,5 +486,78 @@ export default {
   .lang__content h4 {
     text-transform: uppercase;
     margin-top: 15px;
+  }
+  a{
+    color: #00428a!important;
+  }
+  /*ressponsive*/
+  @media  (max-width: 1141px){
+.sidebar{
+  max-width:387px!important;
+}
+  .content{
+    max-width:calc(100% - 387px)!important;
+  }
+  }
+  @media  (max-width: 1024px){
+    .section:not(.last-child){
+      margin-left: 0px;
+    }
+  }
+  @media  (max-width: 942px){
+    .sidebar .module {
+      padding: 0 10px;
+      margin-top: 35px;
+    }
+    .sidebar{
+      max-width:355px!important;
+    }
+    .content{
+      max-width:calc(100% - 355px)!important;
+    }
+    .fa-github{
+      padding:0px 10px;
+    }
+  }
+  @media  (max-width: 914px){
+    .sidebar{
+      max-width:100%!important;
+      flex: 0px!important;
+    }
+    .content{
+      max-width:100%!important;
+    }
+    .sidebar .module {
+      padding: 0 25px;
+    }
+    .content{
+      flex: 0px!important;
+    }
+    .content .col-md-12{
+      padding: 0px 25px!important;
+    }
+  }
+  @media  (max-width: 540px){
+    .content .col-md-12,.sidebar .module{
+      padding: 0px 15px 0px 15px!important;
+    }
+    .section__content {
+      padding-left: 10px;
+    }
+    .content .module__title .circle{
+      margin-right: 30px;
+    }
+    .title-margin li,.module__meta,.content .module__content .flex {
+      padding-left: 0px;
+    }
+    .section__title{
+      font-size:24px;
+    }
+    .module__title span{
+      font-size: 20px;
+    }
+    body{
+      font-size:14px!important;
+    }
   }
 </style>
