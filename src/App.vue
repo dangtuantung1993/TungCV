@@ -1,14 +1,15 @@
 <template>
-  <div id="app">
+  <div id="container">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.7.0/css/all.css">
-    <div class="wrapper flex">
-      <div class="sidebar">
+    <div class="row">
+      <div class="col-md-4 sidebar">
         <div class="avatar">
           <img src="./assets/avatar.jpg" width="215" height="215" alt="Dang Tuan Tung" />
           <h1 class="name">Dang Tuan Tung</h1>
           <h4 class="job">15/09/1993</h4>
           <h4 class="job">Software Engineer</h4>
-        </div><!-- .avatar -->
+        </div>
 
         <div class="module">
           <h3 class="module__title">
@@ -27,7 +28,7 @@
               </li>
             </ul>
           </div>
-        </div><!-- End .module #1 -->
+        </div>
 
         <div class="module">
           <h3 class="module__title">
@@ -38,7 +39,7 @@
             <ul>
               <li class="flex">
                 <i class="fa fa-map-marker circle circle--small circle--white"></i>
-                <div>Số 22, Đào Duy Từ, Tổ 19, P.Bắc Sơn, Thành Phố Tam Điệp, Ninh Bình</div>
+                <span>Số 22, Đào Duy Từ, Tổ 19, P.Bắc Sơn, Thành Phố Tam Điệp, Ninh Bình</span>
               </li>
               <li class="flex">
                 <i class="fab fa-linkedin circle circle--small circle--white"></i>
@@ -46,15 +47,15 @@
               </li>
               <li class="flex">
                 <i class="fab fa-github circle circle--small circle--white"></i>
-                <div>https://github.com/dangtuantung1993</div><br><br>
+                <div>https://github.com/dangtuantung1993</div>
               </li>
               <li class="flex">
                 <i class="fas fa-at circle circle--small circle--white"></i>
-                <div>dangtuantung150993@gmail.com</div><br><br>
+                <div>dangtuantung150993@gmail.com</div>
               </li>
               <li class="flex">
                 <i class="fab fa-apple circle circle--small circle--white"></i>
-                <div>(+84) 888 666 893</div>
+                <span>(+84) 888 666 893</span>
               </li>
             </ul>
           </div>
@@ -125,7 +126,7 @@
           </div>
         </div>
       </div>
-      <div class="content">
+      <div class="col-md-8 content">
         <div class="section">
           <h2 class="section__title">
             <i class="fas fa-business-time circle circle--large"></i>
@@ -206,51 +207,6 @@
                 <p>- Có khả năng quản lý công việc hiệu quả, khoa học và rõ ràng.</p>
 
               </div>
-            </div><!-- End .module #4 -->
-          </div><!-- End .section__content -->
-        </div><!-- End .section #1 -->
-
-
-        <div class="section">
-          <h2 class="section__title">
-            <i class="fas fa-graduation-cap circle circle--large"></i>
-            <span>Quá Trình Học</span>
-          </h2>
-          <div class="section__content">
-            <div class="module">
-              <h5 class="module__title">Tiểu học</h5>
-              <div class="module__meta">
-                <span><i class="far fa-school"></i>Trường Tiểu học Nguyễn Trãi</span>
-                <span><i class="fas fa-calendar"></i>1999-2004</span>
-              </div>
-
-            </div><!-- End .module #4 -->
-            <div class="module">
-              <h5 class="module__title">Trung học cơ sở</h5>
-              <div class="module__meta">
-                <span><i class="far fa-school"></i>Trường THCS Đồng Giao</span>
-                <span><i class="fas fa-calendar"></i>2004 - 2008</span>
-              </div>
-
-            </div><!-- End .module #4 -->
-            <div class="module">
-              <h5 class="module__title">Trung học phổ thông</h5>
-              <div class="module__meta">
-                <span><i class="far fa-school"></i>Trường THPT Nguyễn Huệ</span>
-                <span><i class="fas fa-calendar"></i> 2008-2011</span>
-              </div>
-
-            </div><!-- End .module #4 -->
-            <div class="module">
-              <h5 class="module__title">Đại học</h5>
-              <div class="module__meta">
-                <span><i class="far fa-school"></i>Trường Đại học Mỏ - Địa Chất</span>
-                <span><i class="fas fa-calendar"></i> 2011-2016</span>
-              </div>
-              <div class="module__content">
-                <h5>Chuyên ngành : Công nghệ phần mềm .</h5>
-              </div>
-
             </div><!-- End .module #4 -->
           </div><!-- End .section__content -->
         </div><!-- End .section #1 -->
@@ -352,31 +308,20 @@ export default {
   .flex {
     display: flex;
   }
-  .flex .middle {
-    align-items: center;
-  }
   .flex .flex--1 {
     flex: 1;
   }
 
   /* Global Layout */
-  .wrapper {
-    max-width: 1170px;
-    width: 100%;
-    margin: auto;
-  }
+
   .sidebar {
-    width: 35%;
     background: #37474f;
     color: #fff;
-  }
-  .content {
-    width: 65%;
-    padding: 70px;
   }
 
   /* Avatar */
   .avatar {
+    width:103%;
     text-align: center;
     padding: 60px 0;
     background: #263238;
@@ -403,6 +348,7 @@ export default {
   .sidebar .module:last-child {
     margin-bottom: 50px;
   }
+
   .module__title {
     font-size: 22px;
     text-transform: uppercase;
@@ -469,7 +415,8 @@ export default {
 
   /* Section */
   .section:not(.last-child) {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
+    margin-left: 40px;
   }
   .section__title {
     font-size: 28px;
@@ -478,6 +425,9 @@ export default {
   }
   .section__content {
     padding-left: 90px;
+  }
+  .content{
+    padding-top: 70px;
   }
   .content .module:not(:first-child) {
     margin-top: 50px;
