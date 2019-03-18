@@ -83,20 +83,18 @@
                 <i class="fa fa-globe circle circle--small circle--white"></i>
                 <div class="flex--1">
                   <span>Web Development</span>
-                  <span class="progress-bar" style="margin-bottom: 5px"><span style="width:50%"></span></span>
-                  <span >PHP Frameworks : CI</span><br>
-                  <span >NodeJS : Express</span><br>
-                  <span >Front-End: VueJS</span>
+                  <p >PHP Frameworks : CI</p>
+                  <p >NodeJS : Express</p>
+                  <p >Front-End: VueJS</p>
                 </div>
               </li>
               <li class="flex">
                 <i class="fas fa-database circle circle--small circle--white"></i>
                 <div class="flex--1">
                   <span>Database</span>
-                  <span class="progress-bar"><span style="width:50%"></span></span>
-                  <span>MongoDB</span>
-                  <span>PostgreSQL</span>
-                  <span>MySQL</span>
+                  <p>MongoDB</p>
+                  <p>PostgreSQL</p>
+                  <p>MySQL</p>
                 </div>
               </li>
             </ul>
@@ -353,6 +351,13 @@ export default {
   .flex .flex--1 {
     flex: 1;
   }
+  .flex .flex--1 p {
+    padding-left: 0px;
+  }
+  .flex .flex--1 span {
+    padding-bottom: 10px;
+    display: block;
+  }
 
   /* Global Layout */
 
@@ -458,7 +463,7 @@ export default {
     background: #263238;
   }
   .module--progress li {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
 
   /* Section */
@@ -493,13 +498,17 @@ export default {
   a{
     color: #00428a!important;
   }
+  .content .module__content .flex i{
+    position: relative;
+    bottom: 4px;
+  }
   /*ressponsive*/
   @media  (max-width: 1141px){
 .sidebar{
-  max-width:387px!important;
+  max-width:403px!important;
 }
   .content{
-    max-width:calc(100% - 387px)!important;
+    max-width:calc(100% - 403px)!important;
   }
   }
   @media  (max-width: 1024px){
@@ -553,6 +562,7 @@ export default {
     .title-margin li,.module__meta,.content .module__content .flex {
       padding-left: 0px;
     }
+
     .section__title{
       font-size:24px;
     }
