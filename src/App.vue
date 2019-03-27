@@ -1,7 +1,7 @@
 <template>
   <div id="container">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.7.0/css/all.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
@@ -22,7 +22,7 @@
           <div class="module__content">
             <ul>
               <li class="flex">
-                <i class="far fa-school circle circle--small circle--white"></i>
+                <i class="fas fa-school circle circle--small circle--white"></i>
                 <div>Đại Học Mỏ - Địa Chất (2011-2016)</div><br>
               </li>
               <li class="flex">
@@ -172,8 +172,8 @@
 
                   </li>
                   <li class="flex">- https://github.com/dangtuantung1993/checkwallet</li>
-                  <li class="flex">- Frontend: VueJs</li>
-                  <li class="flex">- Backend: NodeJs</li>
+                  <li class="flex">- https://datu.netlify.com/</li>
+
                 </ul>
 
               </div>
@@ -225,7 +225,7 @@
         <div class="section">
             <h2 class="section__title">
               <i class="fa fa-briefcase circle circle--large"></i>
-              <span>Mong Muốn</span>
+              <span>Mong Muốn Phát Triển</span>
             </h2>
             <div class="section__content">
               <div class="module">
@@ -233,7 +233,8 @@
                   <ul  class="title">
                     <li>- Kỹ năng kỹ thuật: Công nghệ chuỗi khối</li>
                     <li>- Kỹ năng mềm: ngoại ngữ, kỹ năng thuyết trình, kỹ năng làm việc nhóm</li>
-                    <li>- Trở thành Trưởng nhóm Kỹ thuật hoặc Quản lý Dự án với hiệu suất cao và phong cách chuyên nghiệp</li>
+                    <li>- Trở thành Trưởng nhóm Kỹ thuật </li>
+                    <li>- Quản lý Dự án với hiệu suất cao và phong cách chuyên nghiệp</li>
                   </ul>
                 </div>
               </div><!-- End .module #7 -->
