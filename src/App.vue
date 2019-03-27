@@ -83,6 +83,7 @@
                 <i class="fa fa-globe circle circle--small circle--white"></i>
                 <div class="flex--1">
                   <span>Web Development</span>
+                  <span class="progress-bar"><span style="width:50%"></span></span>
                   <p >PHP Frameworks : CI</p>
                   <p >NodeJS : Express</p>
                   <p >Front-End: VueJS</p>
@@ -92,6 +93,7 @@
                 <i class="fas fa-database circle circle--small circle--white"></i>
                 <div class="flex--1">
                   <span>Database</span>
+                  <span class="progress-bar"><span style="width:50%"></span></span>
                   <p>MongoDB</p>
                   <p>PostgreSQL</p>
                   <p>MySQL</p>
@@ -358,6 +360,10 @@ export default {
   .flex .flex--1 span {
     padding-bottom: 10px;
     display: block;
+  }
+  .flex .flex--1 span.progress-bar {
+    width: 100%!important;
+    height: 4px!important;
   }
 
   /* Global Layout */
