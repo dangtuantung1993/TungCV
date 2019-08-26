@@ -84,7 +84,7 @@
                 <div class="flex--1">
                   <span>Web Development</span>
                   <span class="progress-bar"><span style="width:50%"></span></span>
-                  <p >PHP Frameworks : CI</p>
+                  <p >PHP Frameworks : CI , Laravel</p>
                   <p >NodeJS : Express</p>
                   <p >Front-End: VueJS</p>
                 </div>
@@ -170,10 +170,9 @@
                 <ul>
                   <li class="flex">
                     <i class="fa fa-globe circle circle--small circle--white"></i>
-                    <div><a href="https://github.com/dangtuantung1993/checkwallet">Website cho Check Wallet (Incomplete)</a></div>
+                    <div>Website cho Check Wallet (Incomplete)</div>
 
                   </li>
-                  <li class="flex">- https://github.com/dangtuantung1993/checkwallet</li>
                   <li class="flex">- https://datu.netlify.com/</li>
 
                 </ul>
@@ -185,22 +184,41 @@
             <div class="module">
               <h3 class="module__title">
                 <i class="fa fa-globe circle circle--medium"></i>
-                <span>Tool</span></h3>
+                <span>Website</span></h3>
               <div class="module__content">
                 <ul>
                   <li class="flex">
                     <i class="fa fa-globe circle circle--small circle--white"></i>
-                    <a href="https://github.com/dangtuantung1993/tooljava">Tool Auto </a>
+                    <div>Website tổng cục hải quan</div>
 
                   </li>
-                  <li class="flex">- https://github.com/dangtuantung1993/tooljava</li>
-                  <li class="flex">- Java</li>
+                  <li class="flex">-http://hqportal.stc.vn/</li>
+
                 </ul>
 
               </div>
             </div><!-- End .module #4 -->
-          </div><!-- End .section__content -->
-        </div><!-- End .section #1 -->
+          </div>
+          <div class="section__content">
+            <div class="module">
+              <h3 class="module__title">
+                <i class="fa fa-globe circle circle--medium"></i>
+                <span>Website</span></h3>
+              <div class="module__content">
+                <ul>
+                  <li class="flex">
+                    <i class="fa fa-globe circle circle--small circle--white"></i>
+                    <div>Website tuyển dụng nhật bản</div>
+
+                  </li>
+                  <li class="flex">- https://afternext.work/</li>
+
+                </ul>
+
+              </div>
+            </div><!-- End .module #4 -->
+          </div>
+          <!-- End .section #1 -->
         <div class="section">
           <h2 class="section__title">
             <i class="fa fa-briefcase circle circle--large"></i>
@@ -217,6 +235,8 @@
                 <li>- Khả năng chịu được áp lực công việc</li>
                 <li>- Tinh thần đoàn kết, thật thà, trung thực.</li>
                 <li>- Có khả năng quản lý công việc hiệu quả, khoa học và rõ ràng.</li>
+                <li>- Sử dụng Git, docker.</li>
+                <li>- Sử dụng thành thạo các loại ví crypto, bitcoin, eth ....</li>
                 </ul>
               </div>
             </div><!-- End .module #4 -->
