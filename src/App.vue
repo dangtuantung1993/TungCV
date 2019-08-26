@@ -143,7 +143,7 @@
                 <span>Website Manager</span></h3>
               <div class="module__meta">
                   <span><i class="fa fa-building-o"></i>bactrungbomicco.com.vn</span>
-                  <span><i class="fa fa-calendar"></i>20 NOV 2017-Current</span>
+                  <span><i class="fa fa-calendar"></i>20 NOV 2017 -1 MAR 2019 </span>
               </div>
               <div class="module__content">
                 <ul class="title title-margin">
@@ -156,6 +156,27 @@
             </div><!-- End .module #4 -->
           </div><!-- End .section__content -->
         </div><!-- End .section #1 -->
+        
+        <div class="section__content">
+            <div class="module">
+              <h3 class="module__title">
+                <i class="fa fa-globe circle circle--medium"></i>
+                <span>Backend + Frontend tại công ty Connectiv Việt Nam</span></h3>
+              <div class="module__meta">
+                  <span><i class="fa fa-building-o"></i>https://connectiv.jp/connectiv-vietnam/</span>
+                  <span><i class="fa fa-calendar"></i>1 APR 2019 - Current </span>
+              </div>
+              <div class="module__content">
+                <ul class="title title-margin">
+
+                <li>- Frontend : Sử dụng VueJs xây dựng giao diện chat</li>
+                <li>- Backend : Xây dựng chức năng chat
+                </li>
+                </ul>
+              </div>
+            </div><!-- End .module #4 -->
+          </div><!-- End .section__content -->
+        </div>
         <div class="section">
           <h2 class="section__title">
             <i class="fas fa-project-diagram circle circle--large"></i>
