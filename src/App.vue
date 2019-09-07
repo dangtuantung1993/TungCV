@@ -241,6 +241,28 @@
               </div>
             </div><!-- End .module #4 -->
           </div>
+          <div class="section__content">
+            <div class="module">
+              <h3 class="module__title">
+                <i class="fa fa-globe circle circle--medium"></i>
+                <span>Website</span></h3>
+              <div class="module__content">
+                <ul>
+                  <li class="flex">
+                    <i class="fa fa-globe circle circle--small circle--white"></i>
+                    <div>Some other personal projects</div>
+
+                  </li>
+                  <li class="flex">- http://nhipcaubonsai.com</li>
+                  <li class="flex">- https://domucmayin368.com</li>
+                  <li class="flex">- http://phongbvb.com</li>
+                  
+
+                </ul>
+
+              </div>
+            </div><!-- End .module #4 -->
+          </div>
           <!-- End .section #1 -->
         <div class="section">
           <h2 class="section__title">
