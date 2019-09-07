@@ -147,7 +147,7 @@
               </div>
               <div class="module__content">
                 <ul class="title title-margin">
-
+                <li>- Thiết kế xây dựng website bactrungbomicco.com.vn</li>
                 <li>- Quản lý, đăng bài viết, chỉnh sửa thay đổi nội dung trang web.</li>
                 <li>- Website : <a href="http://bactrungbomicco.com.vn">Công ty công nghiệp Hóa chất Mỏ - Bắc Trung Bộ </a>
                 </li>
@@ -194,7 +194,7 @@
                 <ul>
                   <li class="flex">
                     <i class="fa fa-globe circle circle--small circle--white"></i>
-                    <div>Website cho Check Wallet (Incomplete)</div>
+                    <div>Website cho Check Wallet sử dụng NodeJS + VueJs (Incomplete)</div>
 
                   </li>
                   <li class="flex">- https://datu.netlify.com/</li>
