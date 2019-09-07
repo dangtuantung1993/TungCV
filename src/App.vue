@@ -171,7 +171,7 @@
 
                 <li>- Frontend : Sử dụng VueJs xây dựng giao diện chat</li>
                 <li>- Backend : Xây dựng chức năng Chat tương tự FB(Chat realtime, tạo room chat,notify khi có tin nhắn đến, thêm sửa xoá tin nhắn, hiển thị số lượng tin nhắn chưa đọc realtime, gửi ảnh gửi file) sử dụng Node JS (Socket IO), PHP laravel <br>
-                                Xây dựng chức năng thanh toán qua công thanh toán Paid.jp
+                                Xây dựng chức năng thanh toán qua cổng thanh toán Paid.jp
                 </li>
                 
                 <li>- Website : <a href="https://afternext.work"></a></li>
