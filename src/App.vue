@@ -174,7 +174,7 @@
                                 Xây dựng chức năng thanh toán qua cổng thanh toán Paid.jp
                 </li>
                 
-                <li>- Website : <a href="https://afternext.work"></a></li>
+                <li>- Website : <a href="https://afternext.work">https://afternext.work</a></li>
                 </ul>
               </div>
             </div><!-- End .module #4 -->
