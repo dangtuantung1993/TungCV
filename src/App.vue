@@ -17,17 +17,17 @@
         <div class="module">
           <h3 class="module__title">
             <i class="fas fa-graduation-cap circle circle--medium"></i>
-            <span>Học Vấn</span>
+            <span>Education</span>
           </h3>
           <div class="module__content">
             <ul>
               <li class="flex">
                 <i class="fas fa-school circle circle--small circle--white"></i>
-                <div>Đại Học Mỏ - Địa Chất (2011-2016)</div><br>
+                <div>Ha Noi University of Mining and Geology(2011-2016)</div><br>
               </li>
               <li class="flex">
                 <i class="fas fa-graduation-cap circle circle--small circle--white"></i>
-                <div>Kỹ sư Công nghệ phần mềm.</div>
+                <div>Software engineering engineer</div>
               </li>
             </ul>
           </div>
@@ -36,7 +36,7 @@
         <div class="module">
           <h3 class="module__title">
             <i class="fas fa-address-book circle circle--medium"></i>
-            <span>Thông Tin</span>
+            <span>Contact</span>
           </h3>
           <div class="module__content">
             <ul>
@@ -67,7 +67,7 @@
         <div class="module module--progress">
           <h3 class="module__title">
             <i class="fa fa-graduation-cap circle circle--medium"></i>
-            <span>Kỹ Năng</span>
+            <span>Skill</span>
           </h3>
           <div class="module__content">
             <ul>
@@ -105,7 +105,7 @@
         <div class="module">
           <h3 class="module__title">
             <i class="fas fa-thumbs-up circle circle--medium"></i>
-            <span>Sở Thích</span>
+            <span>Hobby</span>
           </h3>
           <div class="module__content">
             <ul>
@@ -119,7 +119,7 @@
               </li>
               <li class="flex">
                 <i class="fas fa-futbol circle circle--small circle--white"></i>
-                <div>Bóng đá.</div>
+                <div>Football.</div>
               </li>
               <li class="flex">
                 <i class="fab fa-bitcoin circle circle--small circle--white"></i>
@@ -134,7 +134,7 @@
         <div class="section">
           <h2 class="section__title">
             <i class="fas fa-business-time circle circle--large"></i>
-            <span>Kinh nghiệm</span>
+            <span>Experience</span>
           </h2>
           <div class="section__content">
             <div class="module">
@@ -147,8 +147,7 @@
               </div>
               <div class="module__content">
                 <ul class="title title-margin">
-                <li>- Thiết kế xây dựng website bactrungbomicco.com.vn</li>
-                <li>- Quản lý, đăng bài viết, chỉnh sửa thay đổi nội dung trang web.</li>
+                <li>- Building, website design bactrungbomicco.com.vn</li>
                 <li>- Website : <a href="http://bactrungbomicco.com.vn">Công ty công nghiệp Hóa chất Mỏ - Bắc Trung Bộ </a>
                 </li>
                 </ul>
@@ -161,7 +160,7 @@
             <div class="module">
               <h3 class="module__title">
                 <i class="fa fa-globe circle circle--medium"></i>
-                <span>Backend + Frontend tại công ty Connectiv Việt Nam</span></h3>
+                <span>Backend + Frontend Connectiv Việt Nam</span></h3>
               <div class="module__meta">
                   <span><i class="fa fa-building-o"></i>https://connectiv.jp/connectiv-vietnam/</span>
                   <span><i class="fa fa-calendar"></i>1 APR 2019 - Current </span>
@@ -169,9 +168,9 @@
               <div class="module__content">
                 <ul class="title title-margin">
 
-                <li>- Frontend : Sử dụng VueJs xây dựng giao diện chat</li>
-                <li>- Backend : Xây dựng chức năng Chat tương tự FB(Chat realtime, tạo room chat,notify khi có tin nhắn đến, thêm sửa xoá tin nhắn, hiển thị số lượng tin nhắn chưa đọc realtime, gửi ảnh gửi file) sử dụng Node JS (Socket IO), PHP laravel <br>
-                                Xây dựng chức năng thanh toán qua cổng thanh toán Paid.jp
+                <li>- Frontend : Creat UI website (VueJS)</li>
+                <li>- Backend : Build chat function similar to Facebook message(Chat realtime, create chat room,notify, add edit delete message, send picture and file) using Node JS (Socket IO), PHP laravel <br>
+                                Buid payment function using the payment gateaway Paid.jp (Node js)
                 </li>
                 
                 <li>- Website : <a href="https://afternext.work">https://afternext.work</a></li>
@@ -183,7 +182,7 @@
         <div class="section">
           <h2 class="section__title">
             <i class="fas fa-project-diagram circle circle--large"></i>
-            <span>Các dự án đã làm</span>
+            <span>Side projects</span>
           </h2>
           <div class="section__content">
             <div class="module">
@@ -194,7 +193,7 @@
                 <ul>
                   <li class="flex">
                     <i class="fa fa-globe circle circle--small circle--white"></i>
-                    <div>Website cho Check Wallet sử dụng NodeJS + VueJs (Incomplete)</div>
+                    <div>Website Check Wallet using NodeJS + VueJs (Incomplete)</div>
 
                   </li>
                   <li class="flex">- https://datu.netlify.com/</li>
@@ -213,7 +212,7 @@
                 <ul>
                   <li class="flex">
                     <i class="fa fa-globe circle circle--small circle--white"></i>
-                    <div>Website tổng cục hải quan</div>
+                    <div>Website General Department of Customs</div>
 
                   </li>
                   <li class="flex">-http://hqportal.stc.vn/</li>
@@ -232,7 +231,7 @@
                 <ul>
                   <li class="flex">
                     <i class="fa fa-globe circle circle--small circle--white"></i>
-                    <div>Website tuyển dụng nhật bản</div>
+                    <div>Website</div>
 
                   </li>
                   <li class="flex">- https://afternext.work/</li>
@@ -246,21 +245,21 @@
         <div class="section">
           <h2 class="section__title">
             <i class="fa fa-briefcase circle circle--large"></i>
-            <span>CÁC KỸ NĂNG KHÁC</span>
+            <span>Other skill</span>
           </h2>
           <div class="section__content">
             <div class="module">
               <div class="module__content">
                 <ul class="title">
 
-                <li>- Khả năng làm việc theo nhóm và độc lập.</li>
-                <li>- Đọc hiểu tài liệu và thực hiện theo yêu cầu.­</li>
-                <li>- Tinh thần trách nhiệm cao trong công việc.</li>
-                <li>- Khả năng chịu được áp lực công việc</li>
-                <li>- Tinh thần đoàn kết, thật thà, trung thực.</li>
-                <li>- Có khả năng quản lý công việc hiệu quả, khoa học và rõ ràng.</li>
-                <li>- Sử dụng Git, docker.</li>
-                <li>- Sử dụng thành thạo các loại ví crypto, bitcoin, eth ....</li>
+                <li>- Teamwork or independent skills.</li>
+                <li>- Read the document and follow the request.­</li>
+                <li>- High sense of responsibility at work.</li>
+                <li>- Ability to withstand work pressure</li>
+                <li>- Solidarity, honesty.</li>
+                <li>- Ability to manage work effectively and clearly.</li>
+                <li>- Proficient use Git, docker.</li>
+                <li>- proficient use of cryptocurrency wallets, bitcoin, eth ....</li>
                 </ul>
               </div>
             </div><!-- End .module #4 -->
@@ -271,16 +270,16 @@
         <div class="section">
             <h2 class="section__title">
               <i class="fa fa-briefcase circle circle--large"></i>
-              <span>Mong Muốn Phát Triển</span>
+              <span>Career Objectives</span>
             </h2>
             <div class="section__content">
               <div class="module">
                 <div class="module__content">
                   <ul  class="title">
-                    <li>- Kỹ năng kỹ thuật: Công nghệ chuỗi khối</li>
-                    <li>- Kỹ năng mềm: ngoại ngữ, kỹ năng thuyết trình, kỹ năng làm việc nhóm</li>
-                    <li>- Trở thành Trưởng nhóm Kỹ thuật </li>
-                    <li>- Quản lý Dự án với hiệu suất cao và phong cách chuyên nghiệp</li>
+                    <li>- Technical skills: Blockchain technologies, Cloud services (AWS, GAE, …), Linux, Software Development Life Cycles, Distributed programming, Serviced oriented programming</li>
+                    <li>- Soft skills: foreign language, presentation skills, teamwork skills</li>
+                    <li>- Become Technical Leader or Project Manager with high performance and professional style.</li>
+                    
                   </ul>
                 </div>
               </div><!-- End .module #7 -->
