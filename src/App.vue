@@ -148,7 +148,7 @@
               <div class="module__content">
                 <ul class="title title-margin">
                 <li>- Building, website design bactrungbomicco.com.vn</li>
-                <li>- Website : <a href="http://bactrungbomicco.com.vn">Công ty công nghiệp Hóa chất Mỏ - Bắc Trung Bộ </a>
+                <li>- Website : <a href="http://bactrungbomicco.com.vn">Micco - Bắc Trung Bộ </a>
                 </li>
                 </ul>
               </div>
@@ -160,7 +160,7 @@
             <div class="module">
               <h3 class="module__title">
                 <i class="fa fa-globe circle circle--medium"></i>
-                <span>Backend + Frontend Connectiv Việt Nam</span></h3>
+                <span>Backend + Frontend Connectiv</span></h3>
               <div class="module__meta">
                   <span><i class="fa fa-building-o"></i>https://connectiv.jp/connectiv-vietnam/</span>
                   <span><i class="fa fa-calendar"></i>1 APR 2019 - Current </span>
