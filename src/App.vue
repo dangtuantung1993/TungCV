@@ -140,7 +140,7 @@
             <div class="module">
               <h3 class="module__title">
                 <i class="fa fa-globe circle circle--medium"></i>
-                <span>Website Manager</span></h3>
+                <span>Website Manager MICCO - BAC TRUNG BO MINING CHEMICAL INDUSTRY COMPANY LIMITED</span></h3>
               <div class="module__meta">
                   <span><i class="fa fa-building-o"></i>bactrungbomicco.com.vn</span>
                   <span><i class="fa fa-calendar"></i>20 NOV 2017 -1 MAR 2019 </span>
