@@ -159,7 +159,7 @@
             <div class="module">
               <h3 class="module__title">
                 <i class="fa fa-globe circle circle--medium"></i>
-                <span>FullStack NodeJS Techmaster 2018</span></h3>
+                <span>Completed the course FullStack NodeJS Techmaster 2018</span></h3>
               <div class="module__meta">
                   <span><i class="fa fa-building-o"></i>https://techmaster.vn</span>
                   <span><i class="fa fa-calendar"></i>1 Jan 2018 - 1 Aug 2018 </span>
