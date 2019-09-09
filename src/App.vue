@@ -155,7 +155,24 @@
             </div><!-- End .module #4 -->
           </div><!-- End .section__content -->
         </div><!-- End .section #1 -->
-        
+        <div class="section__content">
+            <div class="module">
+              <h3 class="module__title">
+                <i class="fa fa-globe circle circle--medium"></i>
+                <span>FullStack NodeJS Techmaster 2018</span></h3>
+              <div class="module__meta">
+                  <span><i class="fa fa-building-o"></i>https://connectiv.jp/connectiv-vietnam/</span>
+                  <span><i class="fa fa-calendar"></i>1 Jan 2018 - 1 Aug 2018 </span>
+              </div>
+              <div class="module__content">
+                <ul class="title title-margin">
+                <li>- Frontend : VueJS</li>
+                <li>- Backend : Node Js
+                </li>
+                </ul>
+              </div>
+            </div><!-- End .module #4 -->
+          </div>
         <div class="section__content">
             <div class="module">
               <h3 class="module__title">
