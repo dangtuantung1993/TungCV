@@ -140,7 +140,7 @@
         <div class="section__content">
             <div class="module">
               <h3 class="module__title">
-                <i class="fa fa-globe circle circle--medium"></i>
+                <i class="fa fa-globe circle circle--large"></i>
                 <span>Website Manager MICCO - BAC TRUNG BO MINING CHEMICAL INDUSTRY COMPANY LIMITED</span></h3>
               <div class="module__meta">
                   <span><i class="fa fa-building-o"></i>bactrungbomicco.com.vn</span>
@@ -159,7 +159,7 @@
         <div class="section__content">
             <div class="module">
               <h3 class="module__title">
-                <i class="fa fa-globe circle circle--medium"></i>
+                <i class="fa fa-globe circle circle--large"></i>
                 <span>Completed the course FullStack NodeJS Techmaster 2018</span></h3>
               <div class="module__meta">
                   <span><i class="fa fa-building-o"></i>https://techmaster.vn</span>
@@ -177,7 +177,7 @@
         <div class="section__content">
             <div class="module">
               <h3 class="module__title">
-                <i class="fa fa-globe circle circle--medium"></i>
+                <i class="fa fa-globe circle circle--large"></i>
                 <span>Backend + Frontend Connectiv VIỆT NAM</span></h3>
               <div class="module__meta">
                   <span><i class="fa fa-building-o"></i>https://connectiv.jp/connectiv-vietnam/</span>
