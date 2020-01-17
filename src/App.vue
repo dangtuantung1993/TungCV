@@ -214,10 +214,10 @@
                     <div style="margin-left:25px">
                         - Building website's functions using Laravel FrameWork
                     </div>
-                    <div>
+                    <div style="margin-left:25px">
                         - Building chat function similar to Facebook message(Chat realtime, create chat room,notify, add edit delete message, send picture and file) using Node JS (Socket IO), PHP laravel <br>
                     </div>
-                    <div>
+                    <div style="margin-left:25px">
                         - Buiding payment function using the payment gateaway Paid.jp (Node js)
                     </div>
                 </li>
