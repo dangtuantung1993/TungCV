@@ -153,6 +153,7 @@
               </li>
               </ul>
             </div>
+          </div>
           <!-- End .module #4 -->
         <!-- End .section__content -->
         </div><!-- End .section #1 -->
