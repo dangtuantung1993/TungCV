@@ -284,7 +284,7 @@
               </div>
             </div><!-- End .module #4 -->
           </div>
-          <!-- End .section #1 -->
+        </div>
         <div class="section">
           <h2 class="section__title">
             <i class="fa fa-briefcase circle circle--large"></i>
@@ -308,6 +308,7 @@
             </div><!-- End .module #4 -->
           </div><!-- End .section__content -->
         </div><!-- End .section #1 -->
+          <!-- End .section #1 -->
         <div class="section">
           </div><!-- End .section #2 -->
         <div class="section">
@@ -329,7 +330,7 @@
 
             </div><!-- End .section #2 -->
           </div><!-- End .content -->
-        </div>
+        
     </div>
       <!-- End content -right -->
     </div>
