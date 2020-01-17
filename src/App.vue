@@ -145,7 +145,7 @@
               <span>Website Manager MICCO - BAC TRUNG BO MINING CHEMICAL INDUSTRY COMPANY LIMITED</span></h3>
             <div class="module__meta">
                 <span><i class="fa fa-building-o"></i>bactrungbomicco.com.vn</span>
-                <span><i class="fa fa-calendar"></i>20 NOV 2017 -1 MAR 2019 </span>
+                <span><i class="fa fa-calendar"></i>20 NOV 2017 -1 MAR 2018 </span>
             </div>
             <div class="module__content">
               <ul class="title title-margin">
@@ -183,7 +183,7 @@
                 <span>Backend + Frontend BITSCO</span></h3>
               <div class="module__meta">
                   <span><i class="fa fa-building-o"></i>https://bitsco.com.vn/</span>
-                  <span><i class="fa fa-calendar"></i>1 APR 2019 - Current </span>
+                  <span><i class="fa fa-calendar"></i>15 MAR 2018 - 1 JAN 2019 </span>
               </div>
               <div class="module__content">
                 <ul class="title title-margin">
@@ -192,7 +192,7 @@
                 <li>- Backend : Creating functional modules according to customer's requirements 
                 </li>
                 
-                <li>- Website : <a href="https://afternext.work">https://afternext.work</a></li>
+                <li>- Website : <a href="http://tongcuc.customs.gov.vn/tongcuc/">http://tongcuc.customs.gov.vn/tongcuc/</a></li>
                 </ul>
               </div>
             </div><!-- End .module #4 -->
@@ -204,14 +204,14 @@
                 <span>Backend + Frontend Connectiv VIỆT NAM</span></h3>
               <div class="module__meta">
                   <span><i class="fa fa-building-o"></i>https://connectiv.jp/connectiv-vietnam/</span>
-                  <span><i class="fa fa-calendar"></i>1 APR 2019 - Current </span>
+                  <span><i class="fa fa-calendar"></i>1 MAR 2019 - Current </span>
               </div>
               <div class="module__content">
                 <ul class="title title-margin">
 
                 <li>- Frontend : Creating UI website (VueJS)</li>
                 <li>- Backend : 
-                    <div>
+                    <div style="mb-5">
                          Building website's functions using Laravel FrameWork
                     </div>
                     <div>
