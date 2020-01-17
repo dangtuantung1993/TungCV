@@ -211,14 +211,14 @@
 
                 <li>- Frontend : Creating UI website (VueJS)</li>
                 <li>- Backend : 
-                    <div style="mb-5">
-                         Building website's functions using Laravel FrameWork
+                    <div style="margin-left:25px">
+                        - Building website's functions using Laravel FrameWork
                     </div>
                     <div>
-                        Building chat function similar to Facebook message(Chat realtime, create chat room,notify, add edit delete message, send picture and file) using Node JS (Socket IO), PHP laravel <br>
+                        - Building chat function similar to Facebook message(Chat realtime, create chat room,notify, add edit delete message, send picture and file) using Node JS (Socket IO), PHP laravel <br>
                     </div>
                     <div>
-                        Buiding payment function using the payment gateaway Paid.jp (Node js)
+                        - Buiding payment function using the payment gateaway Paid.jp (Node js)
                     </div>
                 </li>
                 
