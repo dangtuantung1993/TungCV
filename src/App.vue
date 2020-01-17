@@ -83,10 +83,10 @@
                 <i class="fa fa-globe circle circle--small circle--white"></i>
                 <div class="flex--1">
                   <span>Web Development</span>
-                  <span class="progress-bar"><span style="width:80%"></span></span>
+                  <span class="progress-bar"><span style="width:50%"></span></span>
                   <p >PHP Frameworks : CI , Laravel</p>
                   <p >NodeJS : Express</p>
-                  <p >Front-End: VueJS, ReactJs</p>
+                  <p >Front-End: VueJS</p>
                 </div>
               </li>
               <li class="flex">
@@ -132,6 +132,7 @@
       <!-- Content-right -->
       <div class="col-md-8 content">
         <!-- col-md-12 -->
+        <div class="col-md-12 ">
         <div class="section">
           <h2 class="section__title">
             <i class="fas fa-business-time circle circle--large"></i>
@@ -145,11 +146,11 @@
               <span>Website Manager MICCO - BAC TRUNG BO MINING CHEMICAL INDUSTRY COMPANY LIMITED</span></h3>
             <div class="module__meta">
                 <span><i class="fa fa-building-o"></i>bactrungbomicco.com.vn</span>
-                <span><i class="fa fa-calendar"></i>20 NOV 2017 -1 MAR 2018 </span>
+                <span><i class="fa fa-calendar"></i>20 NOV 2017 -1 MAR 2019 </span>
             </div>
             <div class="module__content">
               <ul class="title title-margin">
-              <li>- Building website's design for bactrungbomicco.com.vn</li>
+              <li>- Building, website design bactrungbomicco.com.vn</li>
               <li>- Website : <a href="http://bactrungbomicco.com.vn">MICCO - BAC TRUNG BO MINING CHEMICAL INDUSTRY COMPANY LIMITED </a>
               </li>
               </ul>
@@ -162,7 +163,7 @@
             <div class="module">
               <h3 class="module__title">
                 <i class="fa fa-globe circle circle--medium"></i>
-                <span>Completed the Techmaster's FullStack NodeJS 2018 course</span></h3>
+                <span>Completed the course FullStack NodeJS Techmaster 2018</span></h3>
               <div class="module__meta">
                   <span><i class="fa fa-building-o"></i>https://techmaster.vn</span>
                   <span><i class="fa fa-calendar"></i>1 Jan 2018 - 1 Aug 2018 </span>
@@ -180,46 +181,17 @@
             <div class="module">
               <h3 class="module__title">
                 <i class="fa fa-globe circle circle--medium"></i>
-                <span>Backend + Frontend BITSCO</span></h3>
-              <div class="module__meta">
-                  <span><i class="fa fa-building-o"></i>https://bitsco.com.vn/</span>
-                  <span><i class="fa fa-calendar"></i>15 MAR 2018 - 1 JAN 2019 </span>
-              </div>
-              <div class="module__content">
-                <ul class="title title-margin">
-
-                <li>- Frontend : Creating UI website (VueJS)</li>
-                <li>- Backend : Creating functional modules according to customer's requirements 
-                </li>
-                
-                <li>- Website : <a href="http://tongcuc.customs.gov.vn/tongcuc/">http://tongcuc.customs.gov.vn/tongcuc/</a></li>
-                </ul>
-              </div>
-            </div><!-- End .module #4 -->
-          </div><!-- End .section__content -->
-        <div class="section__content">
-            <div class="module">
-              <h3 class="module__title">
-                <i class="fa fa-globe circle circle--medium"></i>
                 <span>Backend + Frontend Connectiv VIỆT NAM</span></h3>
               <div class="module__meta">
                   <span><i class="fa fa-building-o"></i>https://connectiv.jp/connectiv-vietnam/</span>
-                  <span><i class="fa fa-calendar"></i>1 MAR 2019 - Current </span>
+                  <span><i class="fa fa-calendar"></i>1 APR 2019 - Current </span>
               </div>
               <div class="module__content">
                 <ul class="title title-margin">
 
-                <li>- Frontend : Creating UI website (VueJS)</li>
-                <li>- Backend : 
-                    <div style="margin-left:25px">
-                        - Building website's functions using Laravel FrameWork
-                    </div>
-                    <div style="margin-left:25px">
-                        - Building chat function similar to Facebook message(Chat realtime, create chat room,notify, add edit delete message, send picture and file) using Node JS (Socket IO), PHP laravel <br>
-                    </div>
-                    <div style="margin-left:25px">
-                        - Buiding payment function using the payment gateaway Paid.jp (Node js)
-                    </div>
+                <li>- Frontend : Creat UI website (VueJS)</li>
+                <li>- Backend : Build chat function similar to Facebook message(Chat realtime, create chat room,notify, add edit delete message, send picture and file) using Node JS (Socket IO), PHP laravel <br>
+                                Buid payment function using the payment gateaway Paid.jp (Node js)
                 </li>
                 
                 <li>- Website : <a href="https://afternext.work">https://afternext.work</a></li>
@@ -303,9 +275,8 @@
                     <div>Some other personal projects</div>
 
                   </li>
-                  <li class="flex">- http://nhipcaubonsai.com</li>
-                  <li class="flex">- https://domucmayin368.com</li>
-                  <li class="flex">- http://phongbvb.com</li>
+                  <li class="flex">- https://minhtrietme.com</li>
+                  <li class="flex">- https://luatthienduc.vn</li>
                   
 
                 </ul>
@@ -313,7 +284,7 @@
               </div>
             </div><!-- End .module #4 -->
           </div>
-        </div>
+          <!-- End .section #1 -->
         <div class="section">
           <h2 class="section__title">
             <i class="fa fa-briefcase circle circle--large"></i>
@@ -331,13 +302,12 @@
                 <li>- Solidarity, honesty.</li>
                 <li>- Ability to manage work effectively and clearly.</li>
                 <li>- Proficient use Git, docker.</li>
-                <li>- Proficient use of cryptocurrency wallets, bitcoin, eth ....</li>
+                <li>- proficient use of cryptocurrency wallets, bitcoin, eth ....</li>
                 </ul>
               </div>
             </div><!-- End .module #4 -->
           </div><!-- End .section__content -->
         </div><!-- End .section #1 -->
-          <!-- End .section #1 -->
         <div class="section">
           </div><!-- End .section #2 -->
         <div class="section">
@@ -359,11 +329,11 @@
 
             </div><!-- End .section #2 -->
           </div><!-- End .content -->
-        
-    </div>
+        </div>
+        </div>
+      </div>
       <!-- End content -right -->
     </div>
-  </div>
 </template>
 
 <script>
