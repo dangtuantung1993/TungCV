@@ -136,7 +136,8 @@
             <i class="fas fa-business-time circle circle--large"></i>
             <span>Experience</span>
           </h2>
-          <div class="section__content">
+        </div>
+        <div class="section__content">
             <div class="module">
               <h3 class="module__title">
                 <i class="fa fa-globe circle circle--medium"></i>
@@ -151,8 +152,8 @@
                 <li>- Website : <a href="http://bactrungbomicco.com.vn">MICCO - BAC TRUNG BO MINING CHEMICAL INDUSTRY COMPANY LIMITED </a>
                 </li>
                 </ul>
-              </div>
-            </div><!-- End .module #4 -->
+            </div>
+            <!-- End .module #4 -->
           </div><!-- End .section__content -->
         </div><!-- End .section #1 -->
         <div class="section__content">
@@ -172,7 +173,7 @@
                 </ul>
               </div>
             </div><!-- End .module #4 -->
-          </div>
+        </div>
         <div class="section__content">
             <div class="module">
               <h3 class="module__title">
