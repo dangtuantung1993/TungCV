@@ -197,7 +197,6 @@
               </div>
             </div><!-- End .module #4 -->
           </div><!-- End .section__content -->
-        </div>
         <div class="section__content">
             <div class="module">
               <h3 class="module__title">
