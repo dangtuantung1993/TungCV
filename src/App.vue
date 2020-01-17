@@ -129,8 +129,9 @@
           </div>
         </div>
       </div>
+      <!-- Content-right -->
       <div class="col-md-8 content">
-        <div class="col-md-12 ">
+        <!-- col-md-12 -->
         <div class="section">
           <h2 class="section__title">
             <i class="fas fa-business-time circle circle--large"></i>
@@ -198,7 +199,7 @@
             </div><!-- End .module #4 -->
           </div><!-- End .section__content -->
         </div>
-      </div>
+      
         <div class="section">
           <h2 class="section__title">
             <i class="fas fa-project-diagram circle circle--large"></i>
@@ -329,9 +330,10 @@
             </div><!-- End .section #2 -->
           </div><!-- End .content -->
         </div>
-      </div>
-      </div>
     </div>
+      <!-- End content -right -->
+    </div>
+  </div>
 </template>
 
 <script>
