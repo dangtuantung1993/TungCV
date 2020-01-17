@@ -136,7 +136,7 @@
             <i class="fas fa-business-time circle circle--large"></i>
             <span>Experience</span>
           </h2>
-        </div>
+        
         <div class="section__content">
           <div class="module">
             <h3 class="module__title">
@@ -197,6 +197,7 @@
             </div><!-- End .module #4 -->
           </div><!-- End .section__content -->
         </div>
+      </div>
         <div class="section">
           <h2 class="section__title">
             <i class="fas fa-project-diagram circle circle--large"></i>
