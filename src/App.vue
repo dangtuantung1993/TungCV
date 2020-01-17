@@ -138,28 +138,28 @@
           </h2>
         </div>
         <div class="section__content">
-            <div class="module">
-              <h3 class="module__title">
-                <i class="fa fa-globe circle circle--large"></i>
-                <span>Website Manager MICCO - BAC TRUNG BO MINING CHEMICAL INDUSTRY COMPANY LIMITED</span></h3>
-              <div class="module__meta">
-                  <span><i class="fa fa-building-o"></i>bactrungbomicco.com.vn</span>
-                  <span><i class="fa fa-calendar"></i>20 NOV 2017 -1 MAR 2019 </span>
-              </div>
-              <div class="module__content">
-                <ul class="title title-margin">
-                <li>- Building, website design bactrungbomicco.com.vn</li>
-                <li>- Website : <a href="http://bactrungbomicco.com.vn">MICCO - BAC TRUNG BO MINING CHEMICAL INDUSTRY COMPANY LIMITED </a>
-                </li>
-                </ul>
+          <div class="module">
+            <h3 class="module__title">
+              <i class="fa fa-globe circle circle--medium"></i>
+              <span>Website Manager MICCO - BAC TRUNG BO MINING CHEMICAL INDUSTRY COMPANY LIMITED</span></h3>
+            <div class="module__meta">
+                <span><i class="fa fa-building-o"></i>bactrungbomicco.com.vn</span>
+                <span><i class="fa fa-calendar"></i>20 NOV 2017 -1 MAR 2019 </span>
             </div>
-            <!-- End .module #4 -->
-          </div><!-- End .section__content -->
+            <div class="module__content">
+              <ul class="title title-margin">
+              <li>- Building, website design bactrungbomicco.com.vn</li>
+              <li>- Website : <a href="http://bactrungbomicco.com.vn">MICCO - BAC TRUNG BO MINING CHEMICAL INDUSTRY COMPANY LIMITED </a>
+              </li>
+              </ul>
+            </div>
+          <!-- End .module #4 -->
+        <!-- End .section__content -->
         </div><!-- End .section #1 -->
         <div class="section__content">
             <div class="module">
               <h3 class="module__title">
-                <i class="fa fa-globe circle circle--large"></i>
+                <i class="fa fa-globe circle circle--medium"></i>
                 <span>Completed the course FullStack NodeJS Techmaster 2018</span></h3>
               <div class="module__meta">
                   <span><i class="fa fa-building-o"></i>https://techmaster.vn</span>
@@ -177,7 +177,7 @@
         <div class="section__content">
             <div class="module">
               <h3 class="module__title">
-                <i class="fa fa-globe circle circle--large"></i>
+                <i class="fa fa-globe circle circle--medium"></i>
                 <span>Backend + Frontend Connectiv VIỆT NAM</span></h3>
               <div class="module__meta">
                   <span><i class="fa fa-building-o"></i>https://connectiv.jp/connectiv-vietnam/</span>
