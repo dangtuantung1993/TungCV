@@ -233,15 +233,18 @@
                 <ul class="title title-margin">
 
                 <li> Leader </li>
-                <li> 6-member team management
+                <li> 
                     <div style="margin-left:25px">
-                        - Assigning work to members according to ability
+                      - 6-member team management
                     </div>
                     <div style="margin-left:25px">
-                        - Reviewing coding convention <br>
+                      - Assigning work to members according to ability
                     </div>
                     <div style="margin-left:25px">
-                        - Technique assistance
+                      - Reviewing coding convention <br>
+                    </div>
+                    <div style="margin-left:25px">
+                      - Technique assistance
                     </div>
                 </li>
                 
