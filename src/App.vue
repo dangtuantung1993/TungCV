@@ -303,9 +303,9 @@
                     <div>Some other personal projects</div>
 
                   </li>
-                  <li class="flex">- http://nhipcaubonsai.com</li>
-                  <li class="flex">- https://domucmayin368.com</li>
-                  <li class="flex">- http://phongbvb.com</li>
+                  <li class="flex">- https://minhtrietme.com</li>
+                  <li class="flex">- https://luatthienduc.vn</li>
+                  <li class="flex">- And many other personal projects</li>
                   
 
                 </ul>
