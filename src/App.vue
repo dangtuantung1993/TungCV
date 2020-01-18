@@ -204,7 +204,7 @@
                 <span>Backend + Frontend Connectiv VIỆT NAM</span></h3>
               <div class="module__meta">
                   <span><i class="fa fa-building-o"></i>https://connectiv.jp/connectiv-vietnam/</span>
-                  <span><i class="fa fa-calendar"></i>1 MAR 2019 - Current </span>
+                  <span><i class="fa fa-calendar"></i>1 MAR 2019 - 1 NOV 2019 </span>
               </div>
               <div class="module__content">
                 <ul class="title title-margin">
@@ -223,6 +223,28 @@
                 </li>
                 
                 <li>- Website : <a href="https://afternext.work">https://afternext.work</a></li>
+                </ul>
+              </div>
+              <div class="module__meta">
+                  <span><i class="fa fa-building-o"></i>https://connectiv.jp/connectiv-vietnam/</span>
+                  <span><i class="fa fa-calendar"></i>1 NOV 2019 - Current </span>
+              </div>
+              <div class="module__content">
+                <ul class="title title-margin">
+
+                <li> Leader </li>
+                <li> 6-member team management
+                    <div style="margin-left:25px">
+                        - Assigning work to members according to ability
+                    </div>
+                    <div style="margin-left:25px">
+                        - Reviewing coding convention <br>
+                    </div>
+                    <div style="margin-left:25px">
+                        - Technique assistance
+                    </div>
+                </li>
+                
                 </ul>
               </div>
             </div><!-- End .module #4 -->
